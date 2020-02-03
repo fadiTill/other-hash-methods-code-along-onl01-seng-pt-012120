@@ -14,9 +14,5 @@ def get_the_values(groceries)
     vegetable: ["carrots", "broccoli", "cucumbers"],
     meat: ["chicken", "steak", "salmon"],
     grains: ["rice", "pasta"]
-  #code your solution here!
+  groceries.values#code your solution here!
 end
-
- groceries.keys
-
- 
