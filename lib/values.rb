@@ -15,5 +15,5 @@ def get_the_values(groceries)
     meat: ["chicken", "steak", "salmon"],
     grains: ["rice", "pasta"]
 }
-  groceries.values#code your solution here!
+  groceries.values.flatten#code your solution here!
 end
